@@ -70,17 +70,18 @@ footer {
   }
 
   main {
-    width: 90%;
+    width: 100%;
     display: block;
     justify-content: center;
   }
 
   .BOX {
-    width: 100%;
+    width: 90%;
+    margin: 0 auto;
   }
 
   .BOX:nth-child(2) {
-    margin: 20px 0;
+    margin: 20px auto;
   }
 
   footer {
